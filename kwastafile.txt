@@ -4,8 +4,3 @@ kwastasecond
 
 kwasta likith
 
-<<<<<<< HEAD
-kwsta five`
-=======
-kwasta four
->>>>>>> 466a9cc234180500fcf103d5393389a93319d6bb
